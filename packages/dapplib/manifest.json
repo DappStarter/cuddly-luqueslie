@@ -1,0 +1,16 @@
+{
+    "name": "GearsBD Coin",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "GearsBD Coin",
+        "/category/asset_value_tracking/token/symbol": "GBDC",
+        "/category/asset_value_tracking/token/supply": "10000000",
+        "/category/asset_value_tracking/token/decimals": "10"
+    }
+}
